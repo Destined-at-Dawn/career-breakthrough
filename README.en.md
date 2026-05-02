@@ -11,7 +11,7 @@
 
 ## My Story
 
-My name is Li Lanyuan, a freshman at Shanghai University of Electric Power (a non-elite university in China's "双非" category — not a 985/211 school). I major in IC Design.
+I'm a freshman at a non-elite university in China (what we call "双非" — not a 985/211 school), majoring in Electronic Information.
 
 In spring 2026, I started looking for internships. No prestigious school name, no alumni network, no industry connections.
 
@@ -117,10 +117,10 @@ Whether you're a freshman or a mid-career professional, there's something here f
 
 | Metric | Data |
 |--------|------|
-| School | Shanghai Univ. of Electric Power (non-985/211) |
-| Year | Freshman (2025 intake) |
-| Major | IC Design & Integration |
-| GPA | 3.9/4.0 |
+| School | A non-985/211 university in China |
+| Year | Freshman |
+| Major | Electronic Information |
+| GPA | 3.8+/4.0 |
 | Applications | 20+ |
 | Interviews | 3-4 |
 | Offers | 2 |

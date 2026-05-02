@@ -25,7 +25,7 @@
 ```
 
 **示例：**
-- "Shanghai Univ. of Electric Power | IC Design Student | FPGA & Embedded Systems"
+- "[University] | [Major] Student | [Core Skill] & [Focus Area]"
 - "CS @ [University] | Full-Stack Developer | Open Source Contributor"
 
 ---

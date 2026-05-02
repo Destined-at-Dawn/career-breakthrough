@@ -25,9 +25,9 @@
 
 Designed and implemented a complete data transmission pipeline on FPGA with encryption and error checking.
 
-- **UART Transceiver**: Hand-coded RTL (no IP cores), 115200bps, with custom testbench covering normal, edge-case, and error scenarios — 100% functional verification pass rate
-- **AES-128 Encryption**: Pipelined implementation, optimized critical path from 30+ cycles to **≤12 clock cycles** through S-box lookup table redesign and round key pre-computation
-- **CRC-16-CCITT**: Single-cycle combinational logic, verified against standard test vectors
+- **Communication Interface Module**: Hand-coded RTL (no IP cores), standard baud rate, with custom testbench covering normal, edge-case, and error scenarios — 100% functional verification pass rate
+- **Data Processing Module**: Pipelined implementation, optimized critical path through critical path redesign and pre-computation optimization
+- **Data Integrity Checker**: Single-cycle combinational logic, verified against standard test vectors
 - **Stack**: Verilog HDL · Icarus Verilog · GTKWave · Yosys · nextpnr
 
 **[ROS Autonomous Navigation — Robotics Competition]**　　**Integration Lead**　　**[Feb – Mar 2026]**
@@ -61,7 +61,7 @@ Built a complete navigation pipeline for a wheeled robot with dynamic obstacle a
 
 <!-- Technical version key differences from Minimal:
 1. Projects section is DETAILED — module-level granularity with specific parameters
-2. Each project bullet includes quantified metrics (≤12 cycles, 100% pass rate)
+2. Each project bullet includes quantified metrics (timing optimized, 100% pass rate)
 3. Tech stack listed per project, not just in a skills section
 4. GitHub link in header — let the code speak
 -->

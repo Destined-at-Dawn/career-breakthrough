@@ -26,7 +26,7 @@
 
 **[Project / Competition Name]** — [Role]　　**[Jan 2026 – Apr 2026]**
 
-- [What you did — start with an action verb. E.g.: Designed and implemented a UART transceiver in Verilog at 115200 baud rate]
+- [What you did — start with an action verb. E.g.: Designed and implemented a communication interface module in Verilog at standard baud rate]
 - [Quantified result. E.g.: Achieved 100% pass rate across 500+ test vectors in simulation]
 - [Tools used. E.g.: Built with Icarus Verilog, GTKWave, and Yosys open-source toolchain]
 

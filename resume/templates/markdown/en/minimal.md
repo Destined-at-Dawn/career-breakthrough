@@ -17,9 +17,9 @@
 
 ### Project Name — Team Lead | Jan 2026 – Apr 2026
 
-- Designed UART transceiver in Verilog (115200bps), hand-coded RTL without IP cores
-- Implemented AES-128 encryption module with latency optimized to ≤12 clock cycles
-- Built CRC-16-CCITT checker with 100% test vector pass rate
+- Designed communication interface module in Verilog (standard baud rate), hand-coded RTL without IP cores
+- Implemented data processing module with latency optimized to meet timing requirements
+- Built data integrity checker with 100% test vector pass rate
 - **Stack:** Verilog HDL · Icarus Verilog · GTKWave · Yosys
 
 ### ROS Navigation System — Integration Lead | Feb 2026 – Mar 2026
