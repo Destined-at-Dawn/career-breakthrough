@@ -132,6 +132,16 @@ PRs welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
+## Acknowledgments
+
+This project was inspired by [santifer/career-ops](https://github.com/santifer/career-ops) — Santiago built an AI-powered job search system that evaluated 740+ positions and helped land a Head of Applied AI role. His work showed that job-seeking can be systematized, not just luck. If you're an experienced professional, go check out his project.
+
+Career Breakthrough adapts this philosophy for a different audience: **college students and early-career job seekers** who face the same challenge with fewer resources.
+
+Thanks to Santiago for open-sourcing his work and proving that great tools should be free.
+
+---
+
 ## License
 
 MIT — use freely, please keep attribution.
