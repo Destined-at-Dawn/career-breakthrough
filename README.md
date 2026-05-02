@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/preview.png" alt="Career Breakthrough" width="100%">
+</p>
+
 # 🚀 实习突围 · Career Breakthrough
 
 > **一个双非大一学生的求职方法论 + 全套工具链。不靠学校牌子，靠项目说话。**
