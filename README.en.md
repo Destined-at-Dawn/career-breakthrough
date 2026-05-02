@@ -40,14 +40,11 @@ Whether you're a freshman or a mid-career professional, there's something here f
 
 ## Core Philosophy: Apply → Prove → Iterate
 
-```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   APPLY     │────▶│   PROVE     │────▶│   ITERATE   │
-│  Cast wide  │     │  Show code  │     │  Review &   │
-│  Gather data│     │  Not names  │     │  Improve    │
-└─────────────┘     └─────────────┘     └─────────────┘
-       ▲                                       │
-       └───────────────────────────────────────┘
+```mermaid
+graph LR
+    A["🚀 APPLY<br/>Cast wide · Gather data"] --> B["💪 PROVE<br/>Show code · Not names"]
+    B --> C["🔄 ITERATE<br/>Review & Improve"]
+    C --> A
 ```
 
 1. **Apply** — Mass application isn't reckless; it's systematic market research. Every application teaches you what the market wants.
