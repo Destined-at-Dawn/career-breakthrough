@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Personal data (do NOT commit)
+personal/
+*.docx
+*.pdf
+*.jpg
+*.png
+*.xlsx
+
+# Temp
+*.tmp
+*.bak
