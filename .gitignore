@@ -23,11 +23,15 @@ desktop.ini
 personal/
 memory/
 自我进化/
+assets/IMAGE_PROMPT_GUIDE.md
 *.docx
 *.pdf
 *.jpg
 *.png
 *.xlsx
+
+# Allow preview image (override *.png block)
+!assets/preview.png
 
 # Temp
 *.tmp
