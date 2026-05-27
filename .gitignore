@@ -37,3 +37,24 @@ assets/IMAGE_PROMPT_GUIDE.md
 # Temp
 *.tmp
 *.bak
+
+# === 补充：密钥和凭据（2026-05-27 安全审计）===
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*
+secrets*
+
+# === Python ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === 构建产物 ===
+dist/
+build/
+*.egg-info/
