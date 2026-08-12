@@ -1,4 +1,4 @@
-# 🚀 Career Breakthrough — Start Here
+#  Career Breakthrough — Start Here
 
 > Build a job-search loop you can actually maintain: evidence → applications → interviews → reviews → stronger evidence.
 

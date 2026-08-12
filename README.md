@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🚀 实习突围 · Career Breakthrough
+#  实习突围 · Career Breakthrough
 
 ### 把投递、证明、面试与复盘连成一个可迭代的求职闭环
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🇨🇳 中文
+##  中文
 
 ### 这是什么
 
@@ -105,20 +105,20 @@ flowchart LR
 
 | 类别 | 作用 | 入口 |
 |:-----|:-----|:-----|
-| 📖 **方法论** | 建立投递、筛选、证明、面试、复盘的判断框架 | [`methodology/`](methodology/) |
-| 📄 **简历系统** | 中英文模板、STAR 表达、ATS 与 AI 协作指南 | [`resume/`](resume/) |
-| 🎯 **面试工具** | 准备清单、追问模拟、复盘与谈判 | [`interview/`](interview/) |
-| 📊 **求职管线** | 机会追踪、闭环看板、时间线规划 | [`pipeline/`](pipeline/) |
-| 🤖 **AI 辅助** | 简历写作、模拟面试与工具使用边界 | [`ai-tools/`](ai-tools/) |
-| 🚀 **职业成长** | 实习、入职与长期发展 | [`career-growth/`](career-growth/) |
-| 👥 **社区案例** | 匿名化的策略、失误和经验 | [`community/`](community/) |
+|  **方法论** | 建立投递、筛选、证明、面试、复盘的判断框架 | [`methodology/`](methodology/) |
+|  **简历系统** | 中英文模板、STAR 表达、ATS 与 AI 协作指南 | [`resume/`](resume/) |
+|  **面试工具** | 准备清单、追问模拟、复盘与谈判 | [`interview/`](interview/) |
+|  **求职管线** | 机会追踪、闭环看板、时间线规划 | [`pipeline/`](pipeline/) |
+|  **AI 辅助** | 简历写作、模拟面试与工具使用边界 | [`ai-tools/`](ai-tools/) |
+|  **职业成长** | 实习、入职与长期发展 | [`career-growth/`](career-growth/) |
+|  **社区案例** | 匿名化的策略、失误和经验 | [`community/`](community/) |
 
 ---
 
 ## 简历模板一览
 
 <details>
-<summary>🇨🇳 中文模板（4 种）</summary>
+<summary> 中文模板（4 种）</summary>
 
 | 模板 | 适用场景 | 文件 |
 |------|---------|------|
@@ -130,7 +130,7 @@ flowchart LR
 </details>
 
 <details>
-<summary>🇺🇸 English templates（4 种）</summary>
+<summary> English templates（4 种）</summary>
 
 | Template | Use case | File |
 |----------|----------|------|
@@ -142,7 +142,7 @@ flowchart LR
 </details>
 
 <details>
-<summary>📝 Markdown 模板（4 种）</summary>
+<summary> Markdown 模板（4 种）</summary>
 
 | 模板 | 文件 |
 |------|------|
@@ -159,10 +159,10 @@ flowchart LR
 
 欢迎把真实经验转成可复用、已脱敏的材料：
 
-- 📄 新的行业、岗位或语言版本的简历模板；
-- 🧭 更清晰的闭环步骤、看板字段或回顾方法；
-- 📝 匿名化成功案例，包括有效策略和踩过的坑；
-- 🐛 文档错误、链接失效或不准确建议的修复。
+-  新的行业、岗位或语言版本的简历模板；
+-  更清晰的闭环步骤、看板字段或回顾方法；
+-  匿名化成功案例，包括有效策略和踩过的坑；
+-  文档错误、链接失效或不准确建议的修复。
 
 开始前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 和 [PRIVACY.md](PRIVACY.md)。
 

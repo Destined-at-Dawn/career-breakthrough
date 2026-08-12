@@ -1,4 +1,4 @@
-# 🚀 Career Breakthrough
+#  Career Breakthrough
 
 > **A maintainable job-search loop for students and early-career professionals: evidence → applications → interviews → reviews → stronger evidence.**
 

@@ -67,5 +67,5 @@ Built a complete navigation pipeline for a wheeled robot with dynamic obstacle a
 
 ## Awards & Certifications
 
-- 🏆 1st Place, University Energy & Power Speech Competition (2026)
-- 📜 National Computer Rank Exam Level 2 — C Language (Mar 2026)
+-  1st Place, University Energy & Power Speech Competition (2026)
+-  National Computer Rank Exam Level 2 — C Language (Mar 2026)
