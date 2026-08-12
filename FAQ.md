@@ -141,4 +141,4 @@ AI生成的简历有几个明显特征：
 
 ---
 
-> **还有问题？** 欢迎提 [Issue](../../issues)，或者直接在 Discussions 里讨论。
+> **还有问题？** 欢迎提 [Issue](https://github.com/Destined-at-Dawn/career-breakthrough/issues)，或者直接在 Discussions 里讨论。
