@@ -1,4 +1,4 @@
-# 🚀 Career Breakthrough
+#  Career Breakthrough
 
 > **A freshman's job-hunting playbook + complete toolkit. No elite school brand — let your projects speak.**
 
@@ -42,8 +42,8 @@ Whether you're a freshman or a mid-career professional, there's something here f
 
 ```mermaid
 graph LR
-    A["🚀 APPLY<br/>Cast wide · Gather data"] --> B["💪 PROVE<br/>Show code · Not names"]
-    B --> C["🔄 ITERATE<br/>Review & Improve"]
+    A[" APPLY<br/>Cast wide · Gather data"] --> B[" PROVE<br/>Show code · Not names"]
+    B --> C[" ITERATE<br/>Review & Improve"]
     C --> A
 ```
 
@@ -57,7 +57,7 @@ graph LR
 
 ## Quick Start
 
-### 🎓 Students Looking for Internships
+###  Students Looking for Internships
 
 1. Read [`methodology/01-海投心法.md`](methodology/01-海投心法.md) (Mass Application Mindset)
 2. Pick a template from [`resume/templates/en/`](resume/templates/en/) and follow the [STAR Guide](resume/ai-generation-guide/STAR法则.md)
@@ -65,13 +65,13 @@ graph LR
 4. Prep with [`interview/面试准备清单.md`](interview/面试准备清单.md)
 5. Review after each interview with [`interview/面试复盘模板.md`](interview/面试复盘模板.md)
 
-### 💼 Career Changers / Experienced Professionals
+###  Career Changers / Experienced Professionals
 
 1. Read [`methodology/03-证明自己.md`](methodology/03-证明自己.md) (Prove Yourself)
 2. Use [`resume/templates/en/professional-senior.md`](resume/templates/en/professional-senior.md)
 3. Read [`career-growth/薪资谈判指南.md`](career-growth/薪资谈判指南.md)
 
-### 🤖 AI-Powered Workflow
+###  AI-Powered Workflow
 
 1. Read [`ai-tools/AI辅助简历写作.md`](ai-tools/AI辅助简历写作.md) — AI draft → human edit → iterate
 2. Use [`ai-tools/AI面试模拟.md`](ai-tools/AI面试模拟.md) for mock interviews

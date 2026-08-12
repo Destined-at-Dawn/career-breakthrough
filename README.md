@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🚀 实习突围 · Career Breakthrough
+#  实习突围 · Career Breakthrough
 
 ### 不靠学校牌子，靠项目说话 — 一个双非大一学生的求职方法论 + 全套工具链
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🇨🇳 中文
+##  中文
 
 ### 我是谁
 
@@ -40,8 +40,8 @@
 
 ```mermaid
 graph LR
-    A["🚀 海投<br/>广泛投递 · 采集信息"] --> B["💪 证明<br/>用项目说话 · 代码 > 学校"]
-    B --> C["🔄 迭代<br/>复盘优化 · 越面越强"]
+    A[" 海投<br/>广泛投递 · 采集信息"] --> B[" 证明<br/>用项目说话 · 代码 > 学校"]
+    B --> C[" 迭代<br/>复盘优化 · 越面越强"]
     C --> A
     style A fill:#0D1B2A,stroke:#00BFA5,color:#fff
     style B fill:#0D1B2A,stroke:#FF8F00,color:#fff
@@ -58,18 +58,18 @@ graph LR
 
 | 类别 | 内容 | 数量 |
 |:-----|:-----|:-----|
-| 📖 **方法论** | 从海投到拿 offer 的完整心法（来自实战） | 6 篇 |
-| 📄 **简历模板** | 中文 + 英文，学生 + 职场，Markdown + 可打印 | 12 种 |
-| 🎯 **面试工具** | 准备清单、HR 追问模拟、复盘模板、薪资谈判 | 4 份 |
-| 🤖 **AI 辅助** | Claude Code / Gemini 提升求职效率的实操指南 | 3 篇 |
-| 📊 **求职流水线** | 企业追踪表、时间线规划、投递状态管理 | 2 份 |
-| 🚀 **职场成长** | 实习生生存指南、新人手册、职业规划框架 | 3 篇 |
+|  **方法论** | 从海投到拿 offer 的完整心法（来自实战） | 6 篇 |
+|  **简历模板** | 中文 + 英文，学生 + 职场，Markdown + 可打印 | 12 种 |
+|  **面试工具** | 准备清单、HR 追问模拟、复盘模板、薪资谈判 | 4 份 |
+|  **AI 辅助** | Claude Code / Gemini 提升求职效率的实操指南 | 3 篇 |
+|  **求职流水线** | 企业追踪表、时间线规划、投递状态管理 | 2 份 |
+|  **职场成长** | 实习生生存指南、新人手册、职业规划框架 | 3 篇 |
 
 ---
 
 ### 快速开始
 
-#### 🎓 学生找实习
+####  学生找实习
 
 ```
 Step 1 → 读 methodology/01-海投心法.md（理解海投不是乱投）
@@ -79,7 +79,7 @@ Step 4 → 面试前读 interview/面试准备清单.md
 Step 5 → 面试后填 interview/面试复盘模板.md
 ```
 
-#### 💼 职场人士跳槽/转型
+####  职场人士跳槽/转型
 
 ```
 Step 1 → 读 methodology/03-证明自己.md（用项目和数据说话）
@@ -87,7 +87,7 @@ Step 2 → 选 resume/templates/cn/ 职场进阶版
 Step 3 → 读 career-growth/薪资谈判指南.md
 ```
 
-#### 🤖 用 AI 加速
+####  用 AI 加速
 
 ```
 Step 1 → 读 ai-tools/AI辅助简历写作.md（AI 出初稿 → 人工去 AI 味 → 迭代）
@@ -100,7 +100,7 @@ Step 3 → 配合 resume/ai-generation-guide/去AI味指南.md
 ### 简历模板一览
 
 <details>
-<summary>🇨🇳 中文模板（4 种）</summary>
+<summary> 中文模板（4 种）</summary>
 
 | 模板 | 适用场景 | 文件 |
 |------|---------|------|
@@ -112,7 +112,7 @@ Step 3 → 配合 resume/ai-generation-guide/去AI味指南.md
 </details>
 
 <details>
-<summary>🇺🇸 English Templates (4)</summary>
+<summary> English Templates (4)</summary>
 
 | Template | Use Case | File |
 |----------|----------|------|
@@ -124,7 +124,7 @@ Step 3 → 配合 resume/ai-generation-guide/去AI味指南.md
 </details>
 
 <details>
-<summary>📝 Markdown 模板（4 种）</summary>
+<summary> Markdown 模板（4 种）</summary>
 
 | 模板 | 文件 |
 |------|------|
@@ -153,7 +153,7 @@ Step 3 → 配合 resume/ai-generation-guide/去AI味指南.md
 ### 项目结构
 
 <details>
-<summary>📂 完整目录树</summary>
+<summary> 完整目录树</summary>
 
 ```
 career-breakthrough/
@@ -163,7 +163,7 @@ career-breakthrough/
 ├── CONTRIBUTING.md                    # 贡献指南
 ├── LICENSE                            # MIT License
 │
-├── methodology/                       # 📖 方法论（6 篇）
+├── methodology/                       #  方法论（6 篇）
 │   ├── 01-海投心法.md
 │   ├── 02-筛选漏斗.md
 │   ├── 03-证明自己.md
@@ -171,7 +171,7 @@ career-breakthrough/
 │   ├── 05-复盘迭代.md
 │   └── 06-职场人脉.md
 │
-├── resume/                            # 📄 简历系统
+├── resume/                            #  简历系统
 │   ├── templates/                     # 12 种模板（中英 × 多风格）
 │   │   ├── cn/                        # 中文模板
 │   │   ├── en/                        # 英文模板
@@ -184,33 +184,33 @@ career-breakthrough/
 │       ├── 去AI味指南.md
 │       └── ATS优化指南.md
 │
-├── interview/                         # 🎯 面试系统
+├── interview/                         #  面试系统
 │   ├── 面试准备清单.md
 │   ├── HR追问模拟.md
 │   ├── 面试复盘模板.md
 │   └── 薪资谈判指南.md
 │
-├── pipeline/                          # 📊 求职流水线
+├── pipeline/                          #  求职流水线
 │   ├── 企业追踪模板.md
 │   └── 时间线规划.md
 │
-├── career-growth/                     # 🚀 职场成长
+├── career-growth/                     #  职场成长
 │   ├── 实习生生存指南.md
 │   ├── 职场新人手册.md
 │   └── 职业规划框架.md
 │
-├── ai-tools/                          # 🤖 AI 工具指南
+├── ai-tools/                          #  AI 工具指南
 │   ├── Claude-Code求职指南.md
 │   ├── AI辅助简历写作.md
 │   └── AI面试模拟.md
 │
-├── templates/                         # 📝 通用模板
+├── templates/                         #  通用模板
 │   ├── 求职信模板-中文.md
 │   ├── 求职信模板-英文.md
 │   ├── LinkedIn档案指南.md
 │   └── 微信求职话术.md
 │
-└── community/                         # 👥 社区
+└── community/                         #  社区
     └── success-stories/
         └── template.md
 ```
@@ -239,10 +239,10 @@ career-breakthrough/
 
 欢迎提交 PR！你可以：
 
-- 📄 **添加简历模板** — 新的行业 / 岗位 / 语言版本
-- 📝 **分享成功案例** — 匿名化后放入 `community/success-stories/`
-- 🔧 **改进方法论** — 补充你的实战经验
-- 🐛 **修复错误** — 文档错误、格式问题
+-  **添加简历模板** — 新的行业 / 岗位 / 语言版本
+-  **分享成功案例** — 匿名化后放入 `community/success-stories/`
+-  **改进方法论** — 补充你的实战经验
+-  **修复错误** — 文档错误、格式问题
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
