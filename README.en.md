@@ -17,7 +17,7 @@ In spring 2026, I started looking for internships. No prestigious school name, n
 
 **My approach was simple: mass apply broadly → prove my skills with real projects → iterate after every interview.**
 
-In three weeks, I applied to 20+ companies, got 3-4 interviews, and landed 2 internship offers (including an FPGA Application Engineer role).
+In about three weeks, I applied to 200+ positions, went through 6 interviews, and landed 3 internship offers (including an FPGA Application Engineer role).
 
 After I shared my offer on WeChat Moments, many friends asked: "How did you do it?"
 
@@ -118,9 +118,9 @@ graph LR
 | Year | Freshman |
 | Major | Electronic Information |
 | GPA | 3.8+/4.0 |
-| Applications | 20+ |
-| Interviews | 3-4 |
-| Offers | 2 |
+| Applications | 200+ |
+| Interviews | 6 |
+| Offers | 3 |
 | Time spent | ~3 weeks |
 | Edge | Hand-written FPGA RTL (no IP cores) + AI-assisted development |
 
