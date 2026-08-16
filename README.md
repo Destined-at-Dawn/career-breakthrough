@@ -11,10 +11,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Destined-at-Dawn/career-breakthrough?style=social)](https://github.com/Destined-at-Dawn/career-breakthrough/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Destined-at-Dawn/career-breakthrough)](https://github.com/Destined-at-Dawn/career-breakthrough/commits/main)
-[![GitHub Issues](https://img.shields.io/github/issues/Destined-at-Dawn/career-breakthrough)](https://github.com/Destined-at-Dawn/career-breakthrough/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Destined-at-Dawn/career-breakthrough/issues)](https://github.com/Destined-at-Dawn/career-breakthrough/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**海投 → 证明 → 迭代 — 三周，两个 offer。**
+**海投 → 证明 → 迭代 — 三周，三个 offer。**
 
 [中文](#-中文) · [English](README.en.md) · [Quick Start](#快速开始) · [Templates](#简历模板一览)
 
@@ -30,7 +30,7 @@
 
 **方法很简单：海投 → 用项目证明自己 → 每次面试后复盘迭代。**
 
-三周时间，投了 20+ 家公司，拿到 3-4 个面试机会，最终收获 2 个实习 offer（含 FPGA 应用工程师岗）。朋友圈分享 offer 截图后，很多人来问方法。
+三周时间，投递了 200+ 个岗位，参加了 6 场面试，最终收获 3 个实习 offer（含 FPGA 应用工程师岗）。朋友圈分享 offer 截图后，很多人来问方法。
 
 这个项目就是回答。
 
@@ -227,9 +227,9 @@ career-breakthrough/
 | 年级 | 大一 |
 | 专业 | 电子信息类 |
 | GPA | 3.8+ / 4.0 |
-| 投递数 | 20+ |
-| 面试数 | 3-4 |
-| Offer 数 | 2 |
+| 投递数 | 200+ |
+| 面试数 | 6 |
+| Offer 数 | 3 |
 | 耗时 | 约 3 周 |
 | 核心竞争力 | 手写 FPGA RTL 代码（非 IP 核）+ AI 辅助开发 |
 
